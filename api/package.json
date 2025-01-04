@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "@redwoodjs-stripe/api": "^1.0.7",
-    "@redwoodjs/api": "7.7.4",
-    "@redwoodjs/auth-dbauth-api": "7.7.4",
-    "@redwoodjs/graphql-server": "7.7.4",
+    "@redwoodjs/api": "8.4.2",
+    "@redwoodjs/auth-dbauth-api": "8.4.2",
+    "@redwoodjs/graphql-server": "8.4.2",
     "graphql-scalars": "1.24.0",
     "nodemailer": "6.9.16",
     "stripe": "12.18.0"
