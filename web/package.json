@@ -26,8 +26,8 @@
     "immer": "10.1.1",
     "open-props": "1.7.12",
     "prop-types": "15.8.1",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "react-feather": "2.0.10",
     "styled-components": "6.1.15",
     "xstate": "4.38.0"
