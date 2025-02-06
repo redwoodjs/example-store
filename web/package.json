@@ -15,11 +15,11 @@
   "dependencies": {
     "@radix-ui/react-dialog": "1.1.6",
     "@redwoodjs-stripe/web": "^1.0.7",
-    "@redwoodjs/auth": "7.7.4",
-    "@redwoodjs/auth-dbauth-web": "7.7.4",
-    "@redwoodjs/forms": "7.7.4",
-    "@redwoodjs/router": "7.7.4",
-    "@redwoodjs/web": "7.7.4",
+    "@redwoodjs/auth": "8.5.0",
+    "@redwoodjs/auth-dbauth-web": "8.5.0",
+    "@redwoodjs/forms": "8.5.0",
+    "@redwoodjs/router": "8.5.0",
+    "@redwoodjs/web": "8.5.0",
     "@stripe/stripe-js": "1.54.2",
     "@xstate/immer": "0.3.3",
     "@xstate/react": "3.2.2",
@@ -33,7 +33,7 @@
     "xstate": "4.38.0"
   },
   "devDependencies": {
-    "@redwoodjs/vite": "7.7.4",
+    "@redwoodjs/vite": "8.5.0",
     "@testing-library/user-event": "14.6.1"
   }
 }
