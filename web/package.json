@@ -22,7 +22,7 @@
     "@redwoodjs/web": "7.7.4",
     "@stripe/stripe-js": "1.54.2",
     "@xstate/immer": "0.3.3",
-    "@xstate/react": "3.2.2",
+    "@xstate/react": "5.0.2",
     "immer": "10.1.1",
     "open-props": "1.7.12",
     "prop-types": "15.8.1",
@@ -30,7 +30,7 @@
     "react-dom": "18.3.1",
     "react-feather": "2.0.10",
     "styled-components": "6.1.15",
-    "xstate": "4.38.0"
+    "xstate": "5.19.2"
   },
   "devDependencies": {
     "@redwoodjs/vite": "7.7.4",
